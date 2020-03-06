@@ -21,6 +21,8 @@ def cleaning_before_commit():
 build
 dist
 cvmodels/__pycache__
+cvmodels.egg-info
+.eggs
 """
 	print("Cleaning files -",files)
 

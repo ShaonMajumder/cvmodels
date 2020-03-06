@@ -1,3 +1,4 @@
+#-*coding:utf-8--*-
 from shutil import copyfile,move
 import cv2
 import numpy as np
